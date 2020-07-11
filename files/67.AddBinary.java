@@ -1,5 +1,5 @@
 /**
- * leetcode_67_二进制求和
+ * leetcode_67_二进制求和，与“leetcode_2_两数相加”相似
  * @author Chenzf
  * @date 2020/7/11
  * @version 1.0
